@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Huynh Ngoc Tuan Kiet;A web developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Huynh+Ngoc+Tuan+Kiet;A+web+developer)](https://git.io/typing-svg)
 
 
 ### Hi there 👋
