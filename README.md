@@ -1,24 +1,19 @@
-## Hi there 👋 I'm [Charalambos][website] but you can call me Harry 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+## Hi there 👋 I'm Huynh Ngoc Tuan Kiet 😀
 
 
 
 
-## 🎓 I'm an MSc Data Science student at the University of Edinburgh
 
-- 🔭 I’m currently developing a mobile app with Glideapps.
-- 🌱 I’m currently learning Rshiny. 
+## 🎓 I'm a IT student.
+
+- 🔭 I’m currently studying in HCMC University of Technology and Education.
+- 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love playing tennis and computer games.
-
+- ⚡ Fun fact: I love listening to music, playing basketball, football.
 ## :email: Find me on:
 
-<!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+
 
 <p align="center">
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
