@@ -1,32 +1,84 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Huynh+Ngoc+Tuan+Kiet;A+web+developer)](https://git.io/typing-svg)
-
-
-### Hi there 👋
-### My name is Huynh Ngoc Tuan Kiet. I'm currently studying IT major at HCMC University of Technology and Education. 
-### I've learned we web development for 1 years, started making products for 6 months. Almost them are existing on my github repositories
-### Some skills I have:
-### Languages
-### ![alt text](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) 
-### ![alt text](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465) 
-### ![alt text](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)  
-### ![alt text](https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465) 
+## Hi there 👋 I'm [Charalambos][website] but you can call me Harry 😀
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 
 
 
+## 🎓 I'm an MSc Data Science student at the University of Edinburgh
 
+- 🔭 I’m currently developing a mobile app with Glideapps.
+- 🌱 I’m currently learning Rshiny. 
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything
+- ⚡ Fun fact: I love playing tennis and computer games.
+
+## :email: Find me on:
 
 <!--
-**KietDarealist/KietDarealist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 My name is Huynh Ngoc Tuan Kiet. I'm studying in IT major at HCMC University of Eduction and Technology.
-- 🌱 I'm currently learning web development and mobile development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
+
+<p align="center">
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+</p>
+
+<br />
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+
+</p>
+
+<br />
+
+## :blue_book: Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Develop a mobile app with NO coding!!](https://dev.to/charalambosioannou/develop-a-mobile-app-without-one-line-of-code-oeh)
+- [Awesome typing effect overlay on images &lpar;CSS+JS&rpar;](https://dev.to/charalambosioannou/awesome-typing-effect-overlay-on-images-css-js-2nof)
+- [Create a dynamic GitHub profile Readme](https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5)
+- [Create a static webpage with a contact form on Github pages](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=KietDarealist&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+</a>
+</div>
+
+
+
+[website]: https://charalambosioannou.github.io/
+[linkedin]: https://linkedin.com/in/charalambosioannou
+[mail]: mailto:cioannou1997@gmail.com
+
+
+
