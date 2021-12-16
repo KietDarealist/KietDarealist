@@ -4,7 +4,7 @@
 
 
 
-## 🎓 I'm a IT student.
+## 🎓 I'm an IT student.
 
 - 🔭 I’m currently studying in HCMC University of Technology and Education.
 - 🌱 I’m currently learning web development.
