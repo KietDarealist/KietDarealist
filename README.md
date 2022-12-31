@@ -1,13 +1,5 @@
 ## Hi there 👋 I'm Huynh Ngoc Tuan Kiet 😀
 
-
-
-
-
-## 🎓 I'm an IT student.
-
-- 🔭 I’m currently studying in HCMC University of Technology and Education.
-- 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love listening to music, playing basketball, football.
