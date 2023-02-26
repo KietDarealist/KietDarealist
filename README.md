@@ -2,9 +2,6 @@
 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love listening to music, playing basketball, football.
-## :email: Find me on:
-
 
 
 <p align="center">
